@@ -69,7 +69,7 @@ workshop details, and submit a registration request through the workshop website
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value=""><br>
+  <input type="text" id="fname" name="fname" value="" required><br>
   <label for="lname">Email:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
  <label for="lname">trainer ID:</label><br>
