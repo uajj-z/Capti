@@ -75,6 +75,7 @@ workshop details, and submit a registration request through the workshop website
  <label for="lname">trainer ID:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
   <input type="submit" value="Submit">
+  <input type="reset" value="Cancel">
 </form>
 <footer>
 <img src="C:\Users\hmood\OneDrive\الصور\سطح المكتب\linkdin.png">
